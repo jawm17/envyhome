@@ -117,7 +117,7 @@ function Home() {
                                 info and bookings for an airBnB.
                             </div>
                         </div>
-                        <div className="sitePreview" onClick={() => window.open("https://armchaircap.com", "_blank")}>
+                        <div className="sitePreview" onClick={() => window.open("https://www.armchaircap.com", "_blank")}>
                         <img className="siteImgPreview" src={armchair}></img>
                             <div className="siteName">armchair capital</div>
                             <div className="siteDescription">
