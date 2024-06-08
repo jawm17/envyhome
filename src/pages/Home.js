@@ -63,7 +63,7 @@ function Home() {
             <div id="mainFooter" onClick={() => openPage()}>
                 {/* <img id="profilePic" src="https://pbs.twimg.com/profile_images/1726565027120066560/0Y_7_KGF_400x400.jpg"></img> */}
                 <div id="footTitle">
-                    ERRARE IN PARTE MAGNAE ACTIONIS EST
+                    Ad astra per aspera
                 </div>
                 <div id="upBtnArea" >
                     <svg id="upBtn" xmlns="https://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
